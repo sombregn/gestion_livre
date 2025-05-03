@@ -118,7 +118,3 @@ npm start
 - Validation des données côté serveur
 - Protection des routes et des ressources par utilisateur
 
-## Futures améliorations possibles
-- Fonction de recherche  côté fron-end
-- Gestion des livres
-
